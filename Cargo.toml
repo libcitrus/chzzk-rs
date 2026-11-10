@@ -1,6 +1,4 @@
 [workspace]
 members = [
   "chzzk-api",
-  "chzzk-oauth2",
-  "chzzk-types",
 ]
